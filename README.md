@@ -13,7 +13,7 @@ I'm thrilled to unveil my inaugural Excel project—a comprehensive Road Acciden
 - [Project Environment & Workflow](#project-environment--workflow)
 - [Dashboard Structure](#dashboard-structure)
 - [How to Use](#how-to-use)
-- [Announcement & Thanks](#Announcement--&--Thanks)
+- [Announcement & Thanks](#announcement--thanks)
 
 ---
 
