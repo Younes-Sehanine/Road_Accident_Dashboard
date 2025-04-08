@@ -99,13 +99,29 @@ This dashboard provides a clear snapshot of road accident impacts, supporting da
 The workbook includes the following sheets:
 
 - **Dashboard:** Main interactive interface with slicers, timelines, and drill-down features.
+- ![Dashboard](https://github.com/user-attachments/assets/040d8e39-71ce-4393-83b2-d9dfbcfe31e5)
+
 - **KPI:** PivotTables displaying core metrics.
+- ![KPI](https://github.com/user-attachments/assets/e4cf04fc-b9dc-4f8e-b679-6bf8c4e2184c)
+
 - **Monthly Trend:** Line chart comparing accident trends between 2021 and 2022.
+- ![Monthly Trend](https://github.com/user-attachments/assets/f691355f-7312-4d78-b8c3-65073abdd3ca)
+
 - **Road Type:** Analysis by road type.
+- ![Road Type](https://github.com/user-attachments/assets/7951c8f8-e9be-4be8-a05f-646f245bd8ac)
+
 - **Tree Map:** Visual representation of accident data by road surface.
+- ![Tree Map](https://github.com/user-attachments/assets/34d17442-47cc-4a35-a517-1ec8a0a29e31)
+
 - **Donut Charts:** Proportional breakdown of accident severity.
+- ![Donut Charts](https://github.com/user-attachments/assets/506b0a10-db43-44a3-85c4-756a745e1826)
+
 - **Data Analysis Sheet:** Detailed view of PivotTables and calculated fields.
+- ![Data Analysis Sheet](https://github.com/user-attachments/assets/ee25aba6-8042-43c1-81f5-1344d5df4a43)
+
 - **Data Sheet:** Original raw dataset.
+- ![Data Sheet](https://github.com/user-attachments/assets/b4947b52-df98-4df5-9c0b-20c7fdb9efdd)
+
 
 ---
 
@@ -125,4 +141,3 @@ The workbook includes the following sheets:
 ## Acknowledgements
 
 A heartfelt thank you to Swapnjeet S from Data Tutorials – your inspiring YouTube videos provided invaluable insights that helped shape this project.
-![image](https://github.com/user-attachments/assets/44690049-bc67-4051-a7fd-d64cd3caeaeb)
