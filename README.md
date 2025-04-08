@@ -64,7 +64,7 @@ This dashboard provides a clear snapshot of road accident impacts, supporting da
 - **Format:** Excel Workbook (.xlx)
 - **Dataset:** Synthetic data from Kaggle (307,000+ rows, 21 fields)
 - **Performance:** Optimized for handling up to 3.07 million records
-- **Excel Version:** Office 365
+- **Excel Version:** Office 21
 - **Dataset:** <a href="https://github.com/Younes-Sehanine/Road_Accident_Dashboard/blob/main/Road%20Accident%20Data.xlsx" >`Road Accident Data.xlsx`</a>
 
 ### Workflow Phases
@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 1. **Download the Repository:**  
    Clone or download the repository to your local machine.
 2. **Open the Excel File:**  
-   Open<a href="https://github.com/Younes-Sehanine/Road_Accident_Dashboard/blob/main/Road_Accident_Dashboard.xlsx" >`Road_Accident_Dashboard.xlsx`</a> using Office 21.
+   Open<a href="https://github.com/Younes-Sehanine/Road_Accident_Dashboard/blob/main/Road_Accident_Dashboard.xlsx" >`Road_Accident_Dashboard.xlsx`</a> using Office 365.
 3. **Interact with the Dashboard:**  
    Start with the **Dashboard** sheet to use dynamic slicers and timelines, then explore individual sheets for deeper insights.
 4. **Learn More:**  
