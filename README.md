@@ -99,7 +99,7 @@ This dashboard provides a clear snapshot of road accident impacts, supporting da
 
 The workbook includes the following sheets:
 
-- **Dashboard:** Main interactive interface with slicers, timelines, and drill-down features.
+## **Dashboard:** Main interactive interface with slicers, timelines, and drill-down features.
 
 
 https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
@@ -108,7 +108,7 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 ## **KPI**: PivotTables displaying core metrics.
 - ![KPI](https://github.com/user-attachments/assets/e4cf04fc-b9dc-4f8e-b679-6bf8c4e2184c)
 
-- **Monthly Trend:** Line chart comparing accident trends between 2021 and 2022.
+## **Monthly Trend:** Line chart comparing accident trends between 2021 and 2022.
 - ![Monthly Trend](https://github.com/user-attachments/assets/f691355f-7312-4d78-b8c3-65073abdd3ca)
 
 - **Road Type:** Analysis by road type.
