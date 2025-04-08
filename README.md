@@ -105,7 +105,7 @@ The workbook includes the following sheets:
 https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 
 
--### **KPI:** PivotTables displaying core metrics.
+### **KPI:** PivotTables displaying core metrics.
 - ![KPI](https://github.com/user-attachments/assets/e4cf04fc-b9dc-4f8e-b679-6bf8c4e2184c)
 
 - **Monthly Trend:** Line chart comparing accident trends between 2021 and 2022.
