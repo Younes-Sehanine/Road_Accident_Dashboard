@@ -145,5 +145,8 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 ## Acknowledgements
 
 A heartfelt thank you to Swapnjeet S from Data Tutorials – your inspiring YouTube videos provided invaluable insights that helped shape this project.
-Additionally, please visit my [portfolio website](https://yourportfolio.example.com) to explore more of my work and check out further details about this project at [Project Link](https://yourprojectlink.example.com). 
-Thank you for taking the time to review my work!
+---
+
+## Announcement & Thanks
+
+Thank you for reviewing this project. For additional information and to explore more of my work, please visit my [portfolio website](https://yourportfolio.example.com) and find further details about this project at [Project Link](https://yourprojectlink.example.com). I also extend my sincere thanks to Swapnjeet S from Data Tutorials for his invaluable YouTube tutorials that played a key role in this project's development.
