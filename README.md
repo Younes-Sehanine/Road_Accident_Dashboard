@@ -17,6 +17,7 @@ I'm thrilled to unveil my inaugural Excel project—a comprehensive Road Acciden
 
 ---
 
+
 ## Project Overview
 
 **Road Accident Dashboard** is an Excel-based dashboard that analyzes synthetic road accident data from 2021 and 2022. Sourced from Kaggle, this project processes over 307,000 rows (up to 3.07 million records) across 21 fields. It reveals patterns in accident severity, vehicle involvement, environmental conditions, and temporal trends—providing a clear view of high-risk areas to support data-driven decision-making.
@@ -99,7 +100,10 @@ This dashboard provides a clear snapshot of road accident impacts, supporting da
 The workbook includes the following sheets:
 
 - **Dashboard:** Main interactive interface with slicers, timelines, and drill-down features.
-- ![Dashboard](https://github.com/user-attachments/assets/040d8e39-71ce-4393-83b2-d9dfbcfe31e5)
+
+
+https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
+
 
 - **KPI:** PivotTables displaying core metrics.
 - ![KPI](https://github.com/user-attachments/assets/e4cf04fc-b9dc-4f8e-b679-6bf8c4e2184c)
