@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 3. **Interact with the Dashboard:**  
    Start with the **Dashboard** sheet to use dynamic slicers and timelines, then explore individual sheets for deeper insights.
 4. **Learn More:**  
-   Visit my website for a detailed walkthrough of the methodology and design choices.
+   Visit [My website](https://yourportfolio.example.com) for a detailed walkthrough of the methodology and design choices.
 
 ---
 
