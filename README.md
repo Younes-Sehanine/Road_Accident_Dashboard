@@ -144,4 +144,4 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 
 ## Announcement & Thanks
 
-### Thank you for reviewing this project. For additional information and to explore more of my work, please visit my [portfolio website](https://yourportfolio.example.com) and find further details about this project at [Project Link](https://yourprojectlink.example.com). I also extend my sincere thanks to Swapnjeet S from Data Tutorials for his invaluable YouTube tutorials that played a key role in this project's development.
+### Thank you for reviewing this project. For additional information and to explore more of my work, please visit my [portfolio website](https://yourportfolio.example.com) and find further details about this project at [Project Link](https://yourprojectlink.example.com). I also extend my sincere thanks to Swapnjeet S from [Data Tutorials]([https://yourprojectlink.example.com](https://www.youtube.com/@datatutorials1))for his invaluable YouTube tutorials that played a key role in this project's development.
