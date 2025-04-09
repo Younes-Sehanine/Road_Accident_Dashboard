@@ -117,7 +117,7 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 ### **Tree Map:** Visual representation of accident data by road surface.
 - ![Tree Map](https://github.com/user-attachments/assets/34d17442-47cc-4a35-a517-1ec8a0a29e31)
 
-### **Donut Charts:** Proportional breakdown of accident severity.
+### **Donut Charts:** Proportional breakdowns of accident severity and light conditions at the time of accidents.
 - ![Donut Charts](https://github.com/user-attachments/assets/506b0a10-db43-44a3-85c4-756a745e1826)
 
 ### **Data Analysis Sheet:** Detailed view of PivotTables and calculated fields.
