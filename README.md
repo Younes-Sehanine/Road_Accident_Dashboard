@@ -123,7 +123,7 @@ https://github.com/user-attachments/assets/36c253d6-41f1-4b2f-b59f-081e972051a8
 ### **Data Analysis Sheet:** Detailed view of PivotTables and calculated fields.
 - ![Data Analysis Sheet](https://github.com/user-attachments/assets/ee25aba6-8042-43c1-81f5-1344d5df4a43)
 
-### **Data Sheet:** Clean dataset.
+### **Data Sheet:** Cleaned and formatted dataset used for dashboard visualizations.
 - ![Data Sheet](https://github.com/user-attachments/assets/b4947b52-df98-4df5-9c0b-20c7fdb9efdd)
 
 
